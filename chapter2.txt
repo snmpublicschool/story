@@ -1,2 +1,2 @@
 This is chapter 2
-branch of 2
+Branch of 2
